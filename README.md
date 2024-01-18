@@ -5,7 +5,7 @@
      
 - 💻 Research Assistant @ MIT Operation Research Center <br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Capstone Project @ Handle Global - Spring/Summer 2023 <br/>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant Intern @ AITEM - Spring/Summer 2022 <br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Intern @ AITEM - Spring/Summer 2022 <br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Big Data Group Intern @ Vodafone - Summer/Fall 2021
 
 
