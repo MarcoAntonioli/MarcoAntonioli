@@ -13,7 +13,7 @@
 
 💬 **Contact**
 
-- ✉️ You can have a look at [my LinkedIn profile](https://www.linkedin.com/in/marco-antonioli/) and reach out to me: [maranto@mit.edu](mailto:mantonioli@alum.mit.edu)
+- ✉️ You can have a look at [my LinkedIn profile](https://www.linkedin.com/in/marco-antonioli/) and reach out to me: [mantonioli@alumn.mit.edu](mailto:mantonioli@alum.mit.edu)
 
 
 <!--
