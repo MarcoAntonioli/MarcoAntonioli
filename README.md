@@ -3,8 +3,8 @@
 - 👨‍🎓 Master of Business Analytics @ MIT 23' <br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor in Economics, Management, and Computer Science @ Bocconi University
      
-- 💻 Research Scientist @ Interpretable AI <br/>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Scientist @ Ground Truth Analytics <br/>
+- 💻 Solutions Architect @ Oracke <br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Scientist @ Ground Truth Analytics and IAI <br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Assistant @ MIT Operation Research Center - Spring/Summer 2023<br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Capstone Project @ Handle Global - Spring/Summer 2023 <br/>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research Intern @ AITEM - Spring/Summer 2022 <br/>
