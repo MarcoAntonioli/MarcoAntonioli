@@ -1,7 +1,7 @@
 ### Hi, I'm Marco
 
-- 👨‍🎓 Master of Business Analytics @ MIT 23' <br/>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor in Economics, Management, and Computer Science @ Bocconi University
+- 👨‍🎓 Master of Business Analytics @ MIT '23 <br/>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor in Economics, Management, and Computer Science @ Bocconi University '22
      
 - 💻 Solutions Architect @ Oracle <br/>
 
